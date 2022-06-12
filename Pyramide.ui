@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>802</width>
+    <height>781</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <layout class="QHBoxLayout" name="Row1"/>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="Row2"/>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="Row3"/>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="Row4"/>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="Row5"/>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="Row6"/>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="Row7"/>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
